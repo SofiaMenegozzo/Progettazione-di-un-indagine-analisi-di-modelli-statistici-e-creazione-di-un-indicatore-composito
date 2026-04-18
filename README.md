@@ -14,3 +14,4 @@ Il file elaborato.pdf contiene la trattazione teorica completa (Italiano).
 Il file indicatore_sintetico.xlsx contiene i dati grezzi Istat e i fogli di calcolo relativi al Punto 3.
 Il file script_R.R ed il file envoronment.Rdata contengono il codice R utilizzato per le analisi rigurdanti il Punto 2 e il Punto 3.
 Il file questionario_versione_stampabile.pdf contiene il questionario creato per il Punto 1.
+I file png contengono alcune immagini non direttamente aggiunte all'interno dell'elaborato, ma utili per una maggiore comprensione statistica della Cluster Analysis effettuata al Punto 3 
