@@ -1,4 +1,3 @@
-**Breve descrizione**
 
 Progetto per l'esame di Statistica Sociale. Unisce la progettazione di un'indagine (questionario per il rinnovo delle mense Unimib) alla costruzione di modelli statistici avanzati (Scala di Guttman su aggressività/ottimismo) e alla creazione di un indicatore composito (analisi del benessere nelle regioni italiane su istruzione, lavoro e relazioni sociali).
 
